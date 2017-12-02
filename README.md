@@ -4,11 +4,13 @@ A comic book for cute programmers，收集和程序员有关的漫画。
 ![](http://www.jeffpalm.com/fox/fox.jpg)
 
 - 国内
+  - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)
   - [极客漫画](https://linux.cn/talk/comic/)
   - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
+  - [架构师成长之路](http://hd.qiniu.com/arch/comics)  
   - [Lae程序员小漫画](http://www.cnblogs.com/aaqxhaa1979/p/5817650.html)
   - [数码战争](https://weibo.com/p/1005051167157184/home?from=page_100505&mod=TAB&is_all=1)
-  - [我乱画的](/mine/content.md)
+  - [程序员人生](https://www.evget.com/article/2014/7/7/21280.html)
 
 - 国外
   - [Dan Williams](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon)
@@ -21,7 +23,7 @@ A comic book for cute programmers，收集和程序员有关的漫画。
   - 数学
     - [Spiked Math](http://spikedmath.com)
     - [Brown Sharpie](http://brownsharpie.courtneygibbons.org/)
-  - 三俗
+  - 俗
     - [Cyanide & Happiness](http://explosm.net/)
     - [Optipess - A Webcomic. On the Internet](http://www.optipess.com/)
     - [smbc](http://www.smbc-comics.com/)
@@ -32,4 +34,5 @@ A comic book for cute programmers，收集和程序员有关的漫画。
   - [废材兄弟会](http://www.giantitp.com/comics/oots.html)
 
 
-> 注：如有侵权，请及时告知。
+
+> 如有侵权，请及时告知删除。
