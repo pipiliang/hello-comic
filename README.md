@@ -11,6 +11,10 @@ A comic book for cute programmers，收集和程序员有关的漫画。
   - [Lae程序员小漫画](http://www.cnblogs.com/aaqxhaa1979/p/5817650.html)
   - [数码战争](https://weibo.com/p/1005051167157184/home?from=page_100505&mod=TAB&is_all=1)
   - [程序员人生](https://www.evget.com/article/2014/7/7/21280.html)
+  - 其他
+    - [程序员为什么不喜欢写文档](https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg)
+    - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
+    - [Windows is shutting down](http://www.cxyym.com/wp-content/uploads/2016/04/27a037375c172b007d4c24d15e25fe13.png)
 
 - 国外
   - [Dan Williams](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon)
