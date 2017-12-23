@@ -15,6 +15,8 @@ A comic book for cute programmers，收集和程序员有关的漫画。
     - [程序员为什么不喜欢写文档](https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg)
     - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
     - [Windows is shutting down](http://www.cxyym.com/wp-content/uploads/2016/04/27a037375c172b007d4c24d15e25fe13.png)
+    - [上班萌圈--程序员](http://www.zcool.com.cn/work/ZMTg0ODQ0MDA=.html)
+    - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
 - 国外
   - [Dan Williams](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon)
