@@ -4,6 +4,9 @@ A comic book for cute programmers，收集和程序员有关的漫画。
 ![](http://www.jeffpalm.com/fox/fox.jpg)
 
 - 国内
+  - [我与程序员的日常](http://www.u17.com/comic/143758.html)
+  - [拇指coder--女程序员日常手记](https://manhua.163.com/source/5042896264350340194)
+  - [老男孩日记--混在上海的硬件工程师](http://www.u17.com/comic/11457.html)
   - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)
   - [极客漫画](https://linux.cn/talk/comic/)
   - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
