@@ -22,7 +22,7 @@ A comic book for cute programmers，收集和程序员有关的漫画。
     - [优秀的程序员具备哪些属性？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190358&idx=1&sn=631071dcba0869c842209df07c74e432&chksm=8c990a0cbbee831abce6b4a6aacff4d0a907e8b8846d7f1fd9a6b4f170048a642ff02266e31d&scene=21#wechat_redirect)
     - [什么是佛系程序员？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192450&idx=1&sn=bdd4fd682b80c2164d62ae439da3d06a&chksm=8c99f3d8bbee7aced9159b390d2cc3badb2d0b04e143c5d62d11db2ceee2b16e8ac83a730f59&scene=21#wechat_redirect)
     - [程序员不是修电脑的！](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190242&idx=1&sn=c23dbf981663e9c6cd0ab0ab243c1288&chksm=8c990ab8bbee83ae1d90d5322e9f4469b38a4230102e918f41f6c24d0b8ebb2ce403005cf792&scene=21#wechat_redirect)
-   - 其他
+  - 其他
     - [节操已下线--体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [Lae程序员小漫画](http://www.cnblogs.com/aaqxhaa1979/p/5817650.html)
     - [程序员为什么不喜欢写文档](https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg)
