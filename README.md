@@ -24,6 +24,7 @@ A comic book for cute programmers，收集和程序员有关的漫画。
     - [程序员不是修电脑的！](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190242&idx=1&sn=c23dbf981663e9c6cd0ab0ab243c1288&chksm=8c990ab8bbee83ae1d90d5322e9f4469b38a4230102e918f41f6c24d0b8ebb2ce403005cf792&scene=21#wechat_redirect)
   - 其他
     - [节操已下线--体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
+    - [节操已下线--生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
     - [Lae程序员小漫画](http://www.cnblogs.com/aaqxhaa1979/p/5817650.html)
     - [程序员为什么不喜欢写文档](https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg)
     - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
