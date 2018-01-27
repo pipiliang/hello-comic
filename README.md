@@ -4,26 +4,29 @@ A comic book for cute programmers，收集和程序员有关的漫画。
 ![](http://www.jeffpalm.com/fox/fox.jpg)
 
 - 国内
+  - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
   - [我与程序员的日常](http://www.u17.com/comic/143758.html)
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
-  - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)
+  - [IT趣集](http://ac.qq.com/Comic/ComicInfo/id/629274)--爆笑四格漫画，IT职场上的日常
+  - [IT驴](http://ac.qq.com/Comic/ComicInfo/id/532105)--it行业就是累得跟驴一样的屌丝，不过我仍然快乐的努力画画 因为漫画是一种寄托。
+  - [IT男的感情生活](http://ac.qq.com/Comic/comicInfo/id/517908)--记录作者与老婆相识相恋结婚生子的温馨小故事
+  - [你还想程序猿能画多好](http://ac.qq.com/Comic/ComicInfo/id/624038)--女程序猿的精分生活和日常吐槽
   - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
   - [架构师成长之路](http://hd.qiniu.com/arch/comics)  
   - [数码战争](http://www.u17.com/comic/15000.html)
-  - [程序员人生](https://www.evget.com/article/2014/7/7/21280.html)
   - [极客漫画](https://linux.cn/talk/comic/)
     - [消沉的程序员系列](https://linux.cn/article-8318-1.html)
     - [Codeless开发者](https://linux.cn/article-8919-1.html)
   - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
   - [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)
+  - 请,叫我代码家--我的漫画
+    - [无题](mine/2.png)
   - [程序员小灰](http://blog.csdn.net/bjweimengshu/article/details/78909127?ref=myrecommend)
     - [为什么月薪5W的程序员活得像月薪5K？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191745&idx=1&sn=6049ac1dd09c2096eba96f17c0a69a9a&chksm=8c990c9bbbee858d651aa7201c12e38a6642017674e3a757e5db34f5628cd1126ef79ce1da8d&scene=21#wechat_redirect)
     - [优秀的程序员具备哪些属性？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190358&idx=1&sn=631071dcba0869c842209df07c74e432&chksm=8c990a0cbbee831abce6b4a6aacff4d0a907e8b8846d7f1fd9a6b4f170048a642ff02266e31d&scene=21#wechat_redirect)
     - [什么是佛系程序员？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192450&idx=1&sn=bdd4fd682b80c2164d62ae439da3d06a&chksm=8c99f3d8bbee7aced9159b390d2cc3badb2d0b04e143c5d62d11db2ceee2b16e8ac83a730f59&scene=21#wechat_redirect)
     - [程序员不是修电脑的！](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190242&idx=1&sn=c23dbf981663e9c6cd0ab0ab243c1288&chksm=8c990ab8bbee83ae1d90d5322e9f4469b38a4230102e918f41f6c24d0b8ebb2ce403005cf792&scene=21#wechat_redirect)
-  - 请,叫我代码家--我的漫画
-    - [无题](mine/2.png)
   - 其他
     - [节操已下线--体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [节操已下线--生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
