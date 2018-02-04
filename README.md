@@ -20,6 +20,7 @@ A comic book for cute programmers，收集和程序员有关的漫画。
     - [Codeless开发者](https://linux.cn/article-8919-1.html)
   - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
   - [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)
+  - [幽冥世界](http://www.u17.com/comic/155725.html)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
   - 请,叫我代码家--我的漫画
     - [无题](mine/2.png)
   - [程序员小灰](http://blog.csdn.net/bjweimengshu/article/details/78909127?ref=myrecommend)
