@@ -1,11 +1,13 @@
 # Hello Comic
-A comic book for cute programmers，收集和程序员有关的漫画。
+> A comic book for cute programmers，收集和程序员有关的漫画。
 
 ![](http://www.jeffpalm.com/fox/fox.jpg)
 
 - 国内
   - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
   - [我与程序员的日常](http://www.u17.com/comic/143758.html)
+  - 请,叫我代码家--我的漫画
+    - [瓶颈](mine/2.png)
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
   - [IT趣集](http://ac.qq.com/Comic/ComicInfo/id/629274)--爆笑四格漫画，IT职场上的日常
@@ -21,8 +23,6 @@ A comic book for cute programmers，收集和程序员有关的漫画。
   - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
   - [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)
   - [幽冥世界](http://www.u17.com/comic/155725.html)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
-  - 请,叫我代码家--我的漫画
-    - [无题](mine/2.png)
   - [程序员小灰](http://blog.csdn.net/bjweimengshu/article/details/78909127?ref=myrecommend)
     - [为什么月薪5W的程序员活得像月薪5K？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191745&idx=1&sn=6049ac1dd09c2096eba96f17c0a69a9a&chksm=8c990c9bbbee858d651aa7201c12e38a6642017674e3a757e5db34f5628cd1126ef79ce1da8d&scene=21#wechat_redirect)
     - [优秀的程序员具备哪些属性？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190358&idx=1&sn=631071dcba0869c842209df07c74e432&chksm=8c990a0cbbee831abce6b4a6aacff4d0a907e8b8846d7f1fd9a6b4f170048a642ff02266e31d&scene=21#wechat_redirect)
