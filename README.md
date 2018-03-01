@@ -29,8 +29,9 @@
     - [什么是佛系程序员？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192450&idx=1&sn=bdd4fd682b80c2164d62ae439da3d06a&chksm=8c99f3d8bbee7aced9159b390d2cc3badb2d0b04e143c5d62d11db2ceee2b16e8ac83a730f59&scene=21#wechat_redirect)
     - [程序员不是修电脑的！](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190242&idx=1&sn=c23dbf981663e9c6cd0ab0ab243c1288&chksm=8c990ab8bbee83ae1d90d5322e9f4469b38a4230102e918f41f6c24d0b8ebb2ce403005cf792&scene=21#wechat_redirect)
   - 其他
-    - [节操已下线--体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
-    - [节操已下线--生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
+    - 节操已下线
+      - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
+      - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
     - [Lae程序员小漫画](http://www.cnblogs.com/aaqxhaa1979/p/5817650.html)
     - [程序员为什么不喜欢写文档](https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg)
     - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
@@ -39,26 +40,34 @@
     - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
 - 国外
+  - Daniel Stori
+    - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
+    - [Programmers over time](http://turnoff.us/geek/programmers-over-time/)
+    - [Are You Ready For Microservices?](http://turnoff.us/geek/are-you-ready-for-microservices/)
+    - [When you tail -f But Forget to grep](http://turnoff.us/geek/tail-no-grep/)
+    - [DevOps is not a Role](http://turnoff.us/geek/devops-explained/)
+    - [Private Cloud](http://turnoff.us/geek/private-cloud/)
+    - [A Comic About PHP Good Parts](http://turnoff.us/geek/php-good-parts/)
+    - [Java Jigsaw Rejected](http://turnoff.us/geek/jigsaw-rejected/)
+    - [Big Data Marriage](http://turnoff.us/geek/bigdata-marriage/)
+    - [Annoying Software](http://turnoff.us/geek/annoying-software/)
+    - [Developers](http://turnoff.us/geek/annoying-software/)
+    - [Will ai take our jobs](http://turnoff.us/geek/will-ai-take-our-jobs/)
+    - [...](http://turnoff.us/all/)
   - [Dan Williams](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon)
-  - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
   - [Abstruse Goose](http://abstrusegoose.com/)
   - [Geek & Poke](http://geek-and-poke.com/)
   - [xkcd](https://xkcd.com/)
 
 - 其他
-  - 数学
-    - [Spiked Math](http://spikedmath.com)
-    - [Brown Sharpie](http://brownsharpie.courtneygibbons.org/)
-  - 俗
-    - [Cyanide & Happiness](http://explosm.net/)
-    - [Optipess - A Webcomic. On the Internet](http://www.optipess.com/)
-    - [smbc](http://www.smbc-comics.com/)
-    - [Fredo and Pidjin](http://www.pidjin.net/)
+  - [Brown Sharpie](http://brownsharpie.courtneygibbons.org/)
+  - [Cyanide & Happiness](http://explosm.net/)
+  - [Optipess - A Webcomic. On the Internet](http://www.optipess.com/)
+  - [smbc](http://www.smbc-comics.com/)
+  - [Fredo and Pidjin](http://www.pidjin.net/)
   - [Poorly Drawnd Dinosaurs](http://poorlydrawndinosaurs.com)
   - [exocomics](http://www.exocomics.com/)
   - [phdcomics](http://phdcomics.com/comics.php)
   - [废材兄弟会](http://www.giantitp.com/comics/oots.html)
-
-
 
 > 如有侵权，请及时告知删除。
