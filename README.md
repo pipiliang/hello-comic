@@ -28,7 +28,8 @@
     - [优秀的程序员具备哪些属性？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190358&idx=1&sn=631071dcba0869c842209df07c74e432&chksm=8c990a0cbbee831abce6b4a6aacff4d0a907e8b8846d7f1fd9a6b4f170048a642ff02266e31d&scene=21#wechat_redirect)
     - [什么是佛系程序员？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192450&idx=1&sn=bdd4fd682b80c2164d62ae439da3d06a&chksm=8c99f3d8bbee7aced9159b390d2cc3badb2d0b04e143c5d62d11db2ceee2b16e8ac83a730f59&scene=21#wechat_redirect)
     - [程序员不是修电脑的！](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190242&idx=1&sn=c23dbf981663e9c6cd0ab0ab243c1288&chksm=8c990ab8bbee83ae1d90d5322e9f4469b38a4230102e918f41f6c24d0b8ebb2ce403005cf792&scene=21#wechat_redirect)
-  - 其他
+   - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名“侍从”。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
+   - 其他
     - 节操已下线
       - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
       - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
