@@ -1,7 +1,13 @@
-# Hello Comic
-> A comic book for cute programmers，收集和程序员有关的漫画。
+<div align="center">
+  
+<h1 style="color:orange;">Hello Comic</h1>
+<h6>收集和程序员有关的漫画</h6>
+  
+![](http://cover.u17i.com/2017/02/4596317_1486115484_fNNNqF16X7o3.big.jpg)
 
-![](http://www.jeffpalm.com/fox/fox.jpg)
+</div>
+<br />
+
 
 - 国内
   - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
