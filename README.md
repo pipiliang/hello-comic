@@ -35,6 +35,7 @@
     - [什么是佛系程序员？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653192450&idx=1&sn=bdd4fd682b80c2164d62ae439da3d06a&chksm=8c99f3d8bbee7aced9159b390d2cc3badb2d0b04e143c5d62d11db2ceee2b16e8ac83a730f59&scene=21#wechat_redirect)
     - [程序员不是修电脑的！](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653190242&idx=1&sn=c23dbf981663e9c6cd0ab0ab243c1288&chksm=8c990ab8bbee83ae1d90d5322e9f4469b38a4230102e918f41f6c24d0b8ebb2ce403005cf792&scene=21#wechat_redirect)
    - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名“侍从”。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
+   - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)--画风清奇的一版漫画。
    - 其他
      - 节操已下线
        - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
