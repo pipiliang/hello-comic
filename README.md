@@ -16,7 +16,7 @@
     - [瓶颈](mine/2.png)
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
-  - [IT趣集](http://ac.qq.com/Comic/ComicInfo/id/629274)--爆笑四格漫画，IT职场上的日常
+  - [萌鬼到](http://www.u17.com/comic/165083.html)-- 1-3话程序员鬼
   - [恋爱编程中](https://manhua.163.com/source/5325050657990058934) --当平凡的怪力女程序员遇上腹黑公司总裁...
   - [IT驴](http://ac.qq.com/Comic/ComicInfo/id/532105)--it行业就是累得跟驴一样的屌丝，不过我仍然快乐的努力画画 因为漫画是一种寄托。
   - [IT男的感情生活](http://ac.qq.com/Comic/comicInfo/id/517908)--记录作者与老婆相识相恋结婚生子的温馨小故事
