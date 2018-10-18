@@ -12,13 +12,13 @@
 - 国内
   - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
   - [我与程序员的日常](http://www.u17.com/comic/143758.html)
-  - 请,叫我代码家
-    - [瓶颈](mine/2.png)
+  - [IT男佚事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
   - [我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
   - [萌鬼到](http://www.u17.com/comic/165083.html)--1-3话程序员鬼
   - [恋爱编程中](https://manhua.163.com/source/5325050657990058934)--当平凡的怪力女程序员遇上腹黑公司总裁...
+  - [魔爪大冒险之神秘的彩虹编码](http://www.u17.com/comic/138837.html)--一部少儿科幻题材漫画，讲述了主人公海克意外掉落编程世界，在编程世界的阿呆的帮助下寻找归家之路的冒险旅程。
   - [IT驴](http://m.ac.qq.com/comic/index/id/532105)--it行业就是累得跟驴一样的屌丝，不过我仍然快乐的努力画画 因为漫画是一种寄托。
   - [IT男的感情生活](http://ac.qq.com/Comic/comicInfo/id/517908)--记录作者与老婆相识相恋结婚生子的温馨小故事
   - [IT趣集](http://m.ac.qq.com/comic/index/id/629274)
