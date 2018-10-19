@@ -50,7 +50,7 @@
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
 - 国外
-  - [程序猿拯救世界](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界漫画 ，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
+  - [Code Monkey Save World 程序猿拯救世界](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界漫画 ，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
   - Daniel Stori
     - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
     - [Programmers over time](http://turnoff.us/geek/programmers-over-time/)
@@ -69,6 +69,9 @@
   - [Abstruse Goose](http://abstrusegoose.com/)
   - [Geek & Poke](http://geek-and-poke.com/)
   - [xkcd](https://xkcd.com/)
+  
+- 程序员之歌
+  - [Code Menkey](https://m.bilibili.com/video/av91643.html)
 
 - 其他
   - [Brown Sharpie](http://brownsharpie.courtneygibbons.org/)
