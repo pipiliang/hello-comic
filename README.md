@@ -12,7 +12,7 @@
 - 国内
   - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
   - [我与程序员的日常](http://www.u17.com/comic/143758.html)
-  - [IT男佚事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
+  - [IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
   - [我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
@@ -50,6 +50,7 @@
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
 - 国外
+  - [程序猿拯救世界](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界漫画 ，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
   - Daniel Stori
     - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
     - [Programmers over time](http://turnoff.us/geek/programmers-over-time/)
