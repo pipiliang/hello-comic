@@ -71,7 +71,7 @@
   - [xkcd](https://xkcd.com/)
   
 - 程序员之歌
-  - [Code Menkey](https://m.bilibili.com/video/av91643.html)
+  - [Code Monkey](https://m.bilibili.com/video/av91643.html)
 
 - 其他
   - [Brown Sharpie](http://brownsharpie.courtneygibbons.org/)
