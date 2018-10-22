@@ -11,7 +11,7 @@
 
 - 国内
   - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
-  - [我与程序员的日常](http://www.u17.com/comic/143758.html)
+  - [我与程序员的日常](http://www.u17.com/comic/143758.html)--与程（li）序（ke）员（nan）共同工作的生活，为你们揭开程序员不为人知的一面。
   - [IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
