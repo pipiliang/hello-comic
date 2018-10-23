@@ -9,13 +9,13 @@
 <br />
 
 
-- 国内
-  - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
+- :cn:国内
+  - :100:[程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
   - [我与程序员的日常](http://www.u17.com/comic/143758.html)--与程（li）序（ke）员（nan）共同工作的生活，为你们揭开程序员不为人知的一面。
-  - [IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
+  - :thumbsup:[IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
-  - [我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
+  - :bulb:[我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
   - [萌鬼到](http://www.u17.com/comic/165083.html)--1-3话程序员鬼
   - [恋爱编程中](https://manhua.163.com/source/5325050657990058934)--当平凡的怪力女程序员遇上腹黑公司总裁...
   - [魔爪大冒险之神秘的彩虹编码](http://www.u17.com/comic/138837.html)--一部少儿科幻题材漫画，讲述了主人公海克意外掉落编程世界，在编程世界的阿呆的帮助下寻找归家之路的冒险旅程。
@@ -49,7 +49,7 @@
      - [上班萌圈--程序员](http://www.zcool.com.cn/work/ZMTg0ODQ0MDA=.html)
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
-- 国外
+- :us:国外
   - [Code Monkey Save World 程序猿拯救世界](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界漫画 ，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
   - Daniel Stori
     - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
@@ -70,18 +70,10 @@
   - [Geek & Poke](http://geek-and-poke.com/)
   - [xkcd](https://xkcd.com/)
   
-- 程序员之歌
+- :musical_note:程序员之歌
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
 
-- 其他
-  - [Brown Sharpie](http://brownsharpie.courtneygibbons.org/)
-  - [Cyanide & Happiness](http://explosm.net/)
-  - [Optipess - A Webcomic. On the Internet](http://www.optipess.com/)
-  - [smbc](http://www.smbc-comics.com/)
-  - [Fredo and Pidjin](http://www.pidjin.net/)
-  - [Poorly Drawnd Dinosaurs](http://poorlydrawndinosaurs.com)
-  - [exocomics](http://www.exocomics.com/)
-  - [phdcomics](http://phdcomics.com/comics.php)
+- :thought_balloon:其他
   - [废材兄弟会](http://www.giantitp.com/comics/oots.html)
 
-> 如有侵权，请及时告知删除。
+> :loudspeaker: 如有侵权，请及时告知删除。
