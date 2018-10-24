@@ -30,6 +30,7 @@
     - [Codeless开发者](https://linux.cn/article-8919-1.html)
   - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
   - [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)
+  - [米兔](https://m.dmzj.com/info/42098.html)--公司里所有的极品竟然集合在一起成为了米兔项目组的成员，米兔项目组究竟能否承担起改变公司命运的责任。
   - [幽冥世界](http://www.u17.com/comic/155725.html)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
   - [程序员小灰](http://blog.csdn.net/bjweimengshu/article/details/78909127?ref=myrecommend)
     - [为什么月薪5W的程序员活得像月薪5K？](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191745&idx=1&sn=6049ac1dd09c2096eba96f17c0a69a9a&chksm=8c990c9bbbee858d651aa7201c12e38a6642017674e3a757e5db34f5628cd1126ef79ce1da8d&scene=21#wechat_redirect)
@@ -49,7 +50,7 @@
      - [上班萌圈--程序员](http://www.zcool.com.cn/work/ZMTg0ODQ0MDA=.html)
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
-- :us:国外
+- :us:欧美
   - [Code Monkey Save World 程序猿拯救世界](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界漫画 ，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
   - Daniel Stori
     - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
@@ -69,6 +70,12 @@
   - [Abstruse Goose](http://abstrusegoose.com/)
   - [Geek & Poke](http://geek-and-poke.com/)
   - [xkcd](https://xkcd.com/)
+  
+- 日本
+  - [活着！社畜酱](https://m.dmzj.com/info/34802.html)--社畜酱是一名程序设计员，每天都在与同事们快乐的编程。
+  - [后辈酱的宅活动记](https://m.dmzj.com/info/42651.html)--讲述了关于新人程序员后辈酱的公司生活，轻松而又愉快的日常漫画！
+  - [奋斗吧！系统工程师](https://m.dmzj.com/info/15929.html)--创立只有几年的小型系统开发公司，位于御茶水。社长六本松经常无视职员负担乱接案子...
+  - [百川君与天海桑](https://m.dmzj.com/info/45938.html)--不擅长应付女性的程序员游戏宅与擅长处世的OL之间发生的故事。
   
 - :musical_note:程序员之歌
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
