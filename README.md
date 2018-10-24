@@ -21,6 +21,8 @@
   - [魔爪大冒险之神秘的彩虹编码](http://www.u17.com/comic/138837.html)--一部少儿科幻题材漫画，讲述了主人公海克意外掉落编程世界，在编程世界的阿呆的帮助下寻找归家之路的冒险旅程。
   - [IT驴](http://m.ac.qq.com/comic/index/id/532105)--it行业就是累得跟驴一样的屌丝，不过我仍然快乐的努力画画 因为漫画是一种寄托。
   - [IT男的感情生活](http://ac.qq.com/Comic/comicInfo/id/517908)--记录作者与老婆相识相恋结婚生子的温馨小故事
+  - [钢铁直男也配谈恋爱](http://www.u17.com/comic/176296.html)--顾生作为一个没朋友的程序员，恋爱经历为0。以为自己作为异性绝缘体就这样乏味的过下去...
+  - [瑜伽达人](http://www.u17.com/comic/173744.html)--运动无能IT女在好友的邀约下一起习练瑜伽…
   - [IT趣集](http://m.ac.qq.com/comic/index/id/629274)
   - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
   - [架构师成长之路](http://hd.qiniu.com/arch/comics)  
