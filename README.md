@@ -15,6 +15,7 @@
   - :thumbsup:[IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
   - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
   - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
+  - :thumbsup:[挨踢精英](http://m.1kkk.com/manhua41446/)--挨踢精英是发生在IT界办公室内，爆笑的讲述了IT界大佬和下属们之间的有趣故事。
   - :bulb:[我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
   - [萌鬼到](http://www.u17.com/comic/165083.html)--1-3话程序员鬼
   - [恋爱编程中](https://manhua.163.com/source/5325050657990058934)--当平凡的怪力女程序员遇上腹黑公司总裁...
