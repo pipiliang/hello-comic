@@ -84,8 +84,8 @@
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
   
 - 程序员必看电影
-  - [骇客帝国(1999)]--在线/离线，递归，循环，矩阵等，记得先知是oracle？
-  - [操作系统的革命]
+  - 骇客帝国(1999)--在线/离线，递归，循环，矩阵等，记得先知是oracle？
+  - 操作系统的革命
   
 
 - :thought_balloon:其他
