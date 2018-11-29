@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <h1 style="color:orange;">Hello Comic</h1>
 <h6>收集和程序员有关的漫画</h6>
   
@@ -84,11 +84,16 @@
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
   
 - 程序员必看电影
-  - 骇客帝国(1999)--在线/离线，递归，循环，矩阵等，记得先知是oracle？
+  - 骇客帝国--在线/离线，递归，循环，矩阵等，记得先知是oracle？
   - 操作系统的革命
-  
 
 - :thought_balloon:其他
   - [废材兄弟会](http://www.giantitp.com/comics/oots.html)
 
 > :loudspeaker: 如有侵权，请及时告知删除。
+
+<div align="center">
+  
+![](https://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170805/c62e461c22424834b018277529c7d92c_th.jpg)
+
+</div>
