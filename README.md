@@ -10,6 +10,7 @@
 
 
 - :cn: 国内
+  - :thumbsup: [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)--关于女程序员的种种。
   - :thumbsup: [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
   - :thumbsup: [我与程序员的日常](http://www.u17.com/comic/143758.html)--与程（li）序（ke）员（nan）共同工作的生活，为你们揭开程序员不为人知的一面。
   - :thumbsup: [IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
@@ -27,14 +28,14 @@
   - [极客漫画](https://linux.cn/talk/comic/)
   - [架构师成长之路](http://hd.qiniu.com/arch/comics)  
   - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
-  - [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)
   - 节操已下线
     - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
   - [米兔](https://m.dmzj.com/info/42098.html)--公司里所有的极品竟然集合在一起成为了米兔项目组的成员，米兔项目组究竟能否承担起改变公司命运的责任。
   - [幽冥世界](http://www.u17.com/comic/155725.html)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
   - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名“侍从”。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
-  - :no_good: 其他
+  - 其他
+     - [数码战争](http://www.u17.com/comic/15000.html)
      - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)--画风清奇的一版漫画。
      - [IT驴](http://m.ac.qq.com/comic/index/id/532105)--it行业就是累得跟驴一样的屌丝，不过我仍然快乐的努力画画 因为漫画是一种寄托。
      - [IT男的感情生活](http://ac.qq.com/Comic/comicInfo/id/517908)--记录作者与老婆相识相恋结婚生子的温馨小故事
@@ -70,16 +71,9 @@
   - [奋斗吧！系统工程师](https://m.dmzj.com/info/15929.html)--创立只有几年的小型系统开发公司，位于御茶水。社长六本松经常无视职员负担乱接案子...
   - [百川君与天海桑](https://m.dmzj.com/info/45938.html)--不擅长应付女性的程序员游戏宅与擅长处世的OL之间发生的故事。
   
-- :musical_note: 程序员之歌
-  - [Code Monkey](https://m.bilibili.com/video/av91643.html)
-  - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
-  
-- 程序员电影
-  - 骇客帝国
-  - 操作系统的革命
   
 <ul>  
-  <li>:thought_balloon: 其他
+  <li>:thought_balloon: 条漫
     <ul>
       <li>
         <details>
@@ -98,20 +92,15 @@
         <summary>New Issues</summary>
         <img src="https://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170805/c62e461c22424834b018277529c7d92c_th.jpg" width="50%"/>
         </details>
-      </li> 
-      <li>
-        <a href="http://www.u17.com/comic/15000.html">数码战争</a>
-      </li>
-      <li>
-        <a href="http://www.u17.com/comic/174352.html">我家有只编程猫</a>
-      </li>
-      <li>
-        <a href="http://www.giantitp.com/comics/oots.html">废材兄弟会</a>
       </li>
      </ul>
    </li>                                                                                                                 
 </ul> 
 
+- :musical_note: 程序员之歌
+  - [Code Monkey](https://m.bilibili.com/video/av91643.html)
+  - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
+  
 
 <br>
 
