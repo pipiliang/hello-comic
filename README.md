@@ -77,6 +77,12 @@
     <ul>
       <li>
         <details>
+        <summary>Dev & Ops</summary>
+        <img src="https://dzone.com/storage/temp/4221655-devoops.png" width="80%"/>
+        </details>
+      </li>
+      <li>
+        <details>
         <summary>程序员为什么不喜欢写文档</summary>
         <img src="https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg" width="50%"/>
         </details>
