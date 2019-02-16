@@ -64,6 +64,8 @@
   - [Abstruse Goose](http://abstrusegoose.com/)
   - [Geek & Poke](http://geek-and-poke.com/)
   - [xkcd](https://xkcd.com/)
+  - [OSNews Comics](https://www.osnews.com/comics/)
+  - [MonkeyUser](https://www.monkeyuser.com/toc/)
   
 - 日本
   - [活着！社畜酱](https://m.dmzj.com/info/34802.html)--社畜酱是一名程序设计员，每天都在与同事们快乐的编程。
@@ -97,6 +99,36 @@
         <details>
         <summary>New Issues</summary>
         <img src="https://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170805/c62e461c22424834b018277529c7d92c_th.jpg" width="50%"/>
+        </details>
+      </li>
+       <li>
+        <details>
+        <summary>WTFs / minute</summary>
+        <img src="https://www.osnews.com/images/comics/wtfm.jpg" width="50%"/>
+        </details>
+      </li>
+       <li>
+        <details>
+        <summary>None</summary>
+        <img src="https://images0.cnblogs.com/news/66372/201407/301303313216634.jpg" width="50%"/>
+        </details>
+      </li>
+       <li>
+        <details>
+        <summary>编程语言</summary>
+        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171212/eb45fa9b21f4441face79268867b2eb7.jpeg" width="50%"/>
+        </details>
+      </li>
+        <li>
+        <details>
+        <summary>分支合并</summary>
+        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171212/7cca4afc4d134ac9be430af1a73ac063.jpeg" width="50%"/>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary>tar命令</summary>
+        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180808/c46c79c84d44408cb9d2f44d1a8512a4.jpeg" width="50%"/>
         </details>
       </li>
      </ul>
