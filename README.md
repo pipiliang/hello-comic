@@ -45,7 +45,7 @@
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
 - :us: 欧美
-  - [Code Monkey Save World](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界漫画 ，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
+  - [Code Monkey Save World](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
   - Daniel Stori
     - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
     - [Programmers over time](http://turnoff.us/geek/programmers-over-time/)
@@ -80,7 +80,7 @@
       <li>
         <details>
         <summary>Dev & Ops</summary>
-        <img src="https://dzone.com/storage/temp/4221655-devoops.png" width="80%"/>
+        <img src="https://dzone.com/storage/temp/4221655-devoops.png" width="60%"/>
         </details>
       </li>
       <li>
@@ -128,25 +128,25 @@
       <li>
         <details>
         <summary>tar命令</summary>
-        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180808/c46c79c84d44408cb9d2f44d1a8512a4.jpeg" width="80%"/>
+        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180808/c46c79c84d44408cb9d2f44d1a8512a4.jpeg" width="100%"/>
         </details>
       </li>
       <li>
         <details>
         <summary>凌晨三点</summary>
-        <img src="http://static.webhek.com/techug/uploads/2017/03/19160007067e3240b0f5.gif" width="80%"/>
+        <img src="http://static.webhek.com/techug/uploads/2017/03/19160007067e3240b0f5.gif" width="50%"/>
         </details>
       </li>
       <li>
         <details>
         <summary>客户需求 VS 最终产品</summary>
-        <img src="http://static.webhek.com/techug/uploads/2017/03/1914000133561640c401.gif" width="80%"/>
+        <img src="http://static.webhek.com/techug/uploads/2017/03/1914000133561640c401.gif" width="50%"/>
         </details>
       </li>
       <li>
         <details>
         <summary>程序员的技能（好污）</summary>
-        <img src="http://read.html5.qq.com/image?src=share&imageUrl=http://abco1.heibaimanhua.com/wp-content/uploads/2018/03/20180319_5aaf8b8125c8c.jpg" width="100%"/>
+        <img src="http://read.html5.qq.com/image?src=share&imageUrl=http://abco1.heibaimanhua.com/wp-content/uploads/2018/03/20180319_5aaf8b8125c8c.jpg" width="50%"/>
         </details>
       </li>
       <li>
@@ -158,8 +158,10 @@
       <li>
         <details>
         <summary>HTTP 状态码</summary>
-        <img src="http://www.techug.com/wordpress/wp-content/uploads/2017/03/191b00070520eaf52af8.gif" width="100%"/>
-        <img src="http://www.techug.com/wordpress/wp-content/uploads/2017/03/191500072fdd140301e9.gif" width="100%"/>
+        <div>
+          <img src="http://www.techug.com/wordpress/wp-content/uploads/2017/03/191b00070520eaf52af8.gif" width="100%"/>
+          <img src="http://www.techug.com/wordpress/wp-content/uploads/2017/03/191500072fdd140301e9.gif" width="100%"/>
+        </div>
         </details>
       </li>
       <li>
