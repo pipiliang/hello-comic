@@ -80,7 +80,7 @@
       <li>
         <details>
         <summary>Dev & Ops</summary>
-        <img src="https://dzone.com/storage/temp/4221655-devoops.png" width="60%"/>
+        <img src="https://dzone.com/storage/temp/4221655-devoops.png" width="50%"/>
         </details>
       </li>
       <li>
@@ -158,16 +158,14 @@
       <li>
         <details>
         <summary>HTTP 状态码</summary>
-        <div>
-          <img src="http://www.techug.com/wordpress/wp-content/uploads/2017/03/191b00070520eaf52af8.gif" width="100%"/>
-          <img src="http://www.techug.com/wordpress/wp-content/uploads/2017/03/191500072fdd140301e9.gif" width="100%"/>
-        </div>
+          <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/7efb7b2d7a634be6b18a6457451779dd.jpeg" width="50%"/>
+          <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/2e5a2a8d3015466bbd1c4ff75baed465.jpeg" width="50%"/>
         </details>
       </li>
       <li>
         <details>
         <summary>长大好想做个程序员</summary>
-        <img src="https://www.fun48.com/data/attachment/portal/201810/23/182629r8wso7lnysstyljw.jpg" width="100%"/>
+        <img src="https://www.fun48.com/data/attachment/portal/201810/23/182629r8wso7lnysstyljw.jpg" width="50%"/>
         </details>
       </li>
      </ul>
