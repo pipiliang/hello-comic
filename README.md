@@ -66,6 +66,7 @@
   - [xkcd](https://xkcd.com/)
   - [OSNews Comics](https://www.osnews.com/comics/)
   - [MonkeyUser](https://www.monkeyuser.com/toc/)
+  - [CommitStrip](http://www.commitstrip.com)
   
 - 日本
   - [活着！社畜酱](https://m.dmzj.com/info/34802.html)--社畜酱是一名程序设计员，每天都在与同事们快乐的编程。
@@ -128,7 +129,7 @@
       <li>
         <details>
         <summary>tar命令</summary>
-        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180808/c46c79c84d44408cb9d2f44d1a8512a4.jpeg" width="100%"/>
+        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180808/c46c79c84d44408cb9d2f44d1a8512a4.jpeg" width="50%"/>
         </details>
       </li>
       <li>
