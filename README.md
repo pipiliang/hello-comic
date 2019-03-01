@@ -169,8 +169,14 @@
         <img src="https://www.fun48.com/data/attachment/portal/201810/23/182629r8wso7lnysstyljw.jpg" width="50%"/>
         </details>
       </li>
+     <li>
+        <details>
+        <summary>电脑老是乱蹦字母</summary>
+        <img src="https://oscimg.oschina.net/oscnet/6a51cdca20e412762e34b53767721afdc29.jpg" width="50%"/>
+        </details>
+      </li>
      </ul>
-   </li>                                                                                                                 
+   </li> 
 </ul> 
 
 - :musical_note: 程序员之歌
