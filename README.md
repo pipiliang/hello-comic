@@ -8,6 +8,7 @@
 </div>
 <br />
 
+>作为一个货真价实的程序员，却不务正业地喜欢漫画。自己也想将平时工作用漫画记录下来，却底子太差，画不出来！那就干脆收集下程序员有关的漫画吧！
 
 - :cn: 国内
   - :thumbsup: [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)--关于女程序员的种种。
@@ -34,6 +35,7 @@
   - [米兔](https://m.dmzj.com/info/42098.html)--公司里所有的极品竟然集合在一起成为了米兔项目组的成员，米兔项目组究竟能否承担起改变公司命运的责任。
   - [幽冥世界](http://www.u17.com/comic/155725.html)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
   - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名“侍从”。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
+  - [上帝是码农](http://m.sohu.com/a/236684038_100140685)
   - 其他
      - [数码战争](http://www.u17.com/comic/15000.html)
      - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)--画风清奇的一版漫画。
@@ -60,7 +62,7 @@
     - [Developers](http://turnoff.us/geek/annoying-software/)
     - [Will ai take our jobs](http://turnoff.us/geek/will-ai-take-our-jobs/)
     - [...](http://turnoff.us/all/)
-  - [Dan Williams](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon)
+  - [Consolia Comic](http://consolia-comic.com/)
   - [Abstruse Goose](http://abstrusegoose.com/)
   - [Geek & Poke](http://geek-and-poke.com/)
   - [xkcd](https://xkcd.com/)
