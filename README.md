@@ -1,14 +1,12 @@
 <div align="center">
 
-<h1>Hello Comic</h1>
-<h6>收集和程序员有关的漫画段子</h6>
+<h1>Hello Comic <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a></h1>
+<h6>收集和程序员有关的漫画段子，996时可以看一下。</h6>
   
 ![](http://cover.u17i.com/2017/02/4596317_1486115484_fNNNqF16X7o3.big.jpg)
 
 </div>
-<br />
-
->作为一个货真价实的程序员，却不务正业地喜欢漫画。自己也想将平时工作用漫画记录下来，却底子太差，画不出来！那就干脆收集下程序员有关的漫画吧！
+<br/>
 
 - :cn: 国内
   - :thumbsup: [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)--关于女程序员的种种。
