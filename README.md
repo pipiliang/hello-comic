@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hello Comic <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a></h1>
-<h6>收集和程序员有关的漫画段子，996时可以看一下。</h6>
+<h6>收集和程序员有关的漫画段子，996 时看一下。</h6>
   
 ![](http://cover.u17i.com/2017/02/4596317_1486115484_fNNNqF16X7o3.big.jpg)
 
@@ -27,6 +27,7 @@
   - [极客漫画](https://linux.cn/talk/comic/)
   - [架构师成长之路](http://hd.qiniu.com/arch/comics)  
   - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
+  - [程序员漫画](http://szhshp.org/?pagename=/comics.html)--这是一部程序员漫画, 某一天我闲得很无聊, 很无聊很无聊, 很无聊很无聊很无聊, 于是这部漫画诞生了
   - 节操已下线
     - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
@@ -76,20 +77,26 @@
   
   
 <ul>  
-  <li>:thought_balloon: 条漫
+  <li>:thought_balloon: 零散收集
     <ul>
-      <li>
-        <details>
-        <summary>Dev & Ops</summary>
-        <img src="https://dzone.com/storage/temp/4221655-devoops.png" width="50%"/>
-        </details>
-      </li>
       <li>
         <details>
         <summary>程序员为什么不喜欢写文档</summary>
         <img src="https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg" width="50%"/>
         </details>
       </li> 
+      <li>
+        <details>
+        <summary>程序员逛酒吧</summary>
+        <img src="https://upload-images.jianshu.io/upload_images/11329165-b9c92e9bf5e40e66?imageMogr2/auto-orient/" width="50%"/>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary>程序员的生活写照</summary>
+        <img src="https://upload-images.jianshu.io/upload_images/11329165-fe26be48c17e266b?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp" width="50%"/>
+        </details>
+      </li>
       <li>
         <details>
         <summary>Windows is shutting down</summary>
@@ -173,6 +180,13 @@
         <details>
         <summary>电脑老是乱蹦字母</summary>
         <img src="https://oscimg.oschina.net/oscnet/6a51cdca20e412762e34b53767721afdc29.jpg" width="50%"/>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary>情人节</summary>
+        <img src="https://upload-images.jianshu.io/upload_images/5996435-bfb76cba623c63bf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/960/format/webp" width="50%"/>
+        <img src="https://upload-images.jianshu.io/upload_images/5996435-09c2cdbeefaec570.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/960/format/webp" width="50%"/>
         </details>
       </li>
      </ul>
