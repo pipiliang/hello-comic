@@ -192,6 +192,11 @@
         <img src="https://upload-images.jianshu.io/upload_images/5996435-09c2cdbeefaec570.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/960/format/webp" width="50%"/>
         </details>
       </li>
+      <li>
+        <details>
+        <summary>IE 浏览器</summary>
+        <img src="https://user-gold-cdn.xitu.io/2018/11/17/1671f9209f6d782b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" width="50%"/>
+      </li>
      </ul>
    </li> 
 </ul> 
@@ -200,15 +205,19 @@
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
   - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
 
-## :computer: 技术类
+## :books: 技术类
 
-- [DNS是如何运作的](https://howdns.works/)
-- [Https是如何运作的](https://howhttps.works/)
-- [code-cartoons](https://hacks.mozilla.org/category/code-cartoons/)
-   - [内存管理速成教程](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/) [[中文]](https://zhaozhiming.github.io/blog/2017/06/20/a-crash-course-in-memory-management-zh/)
-   - [ArrayBuffers 和 SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)[[中文]](https://zhaozhiming.github.io/blog/2017/06/20/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers-zh/)
-   - [在 Sharedarraybuffers 中使用 Atomics 来避免竞态条件](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/) [[中文]](https://zhaozhiming.github.io/blog/2017/06/21/avoiding-race-conditions-in-sharedarraybuffers-with-atomics-zh/)
+- 技术
+  - [漫画告诉你什么是DDoS攻击？](https://www.leiphone.com/news/201509/9zGlIDvLhwguqOtg.html)
+  - [DNS是如何运作的](https://howdns.works/)
+  - [Https是如何运作的](https://howhttps.works/)
+  - [code-cartoons](https://hacks.mozilla.org/category/code-cartoons/)
+     - [内存管理速成教程](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/) -- [[中文]](https://zhaozhiming.github.io/blog/2017/06/20/a-crash-course-in-memory-management-zh/)
+     - [ArrayBuffers 和 SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/) -- [[中文]](https://zhaozhiming.github.io/blog/2017/06/20/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers-zh/)
+     - [在 Sharedarraybuffers 中使用 Atomics 来避免竞态条件](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/) -- [[中文]](https://zhaozhiming.github.io/blog/2017/06/21/avoiding-race-conditions-in-sharedarraybuffers-with-atomics-zh/)
 
+- 设计
+  - [设计师装逼指南](http://iconmoon.com/blog2/how-to-pretend-youre-a-great-designer/)
 
 <br>
 
