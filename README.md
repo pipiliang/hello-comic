@@ -8,6 +8,9 @@
 </div>
 <br/>
 
+
+## :see_no_evil: 段子类
+
 - :cn: 国内
   - :thumbsup: [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)--关于女程序员的种种。
   - :thumbsup: [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
@@ -196,7 +199,16 @@
 - :musical_note: 程序员之歌
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
   - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
-  
+
+## :computer: 技术类
+
+- [DNS是如何运作的](https://howdns.works/)
+- [Https是如何运作的](https://howhttps.works/)
+- [code-cartoons](https://hacks.mozilla.org/category/code-cartoons/)
+   - [内存管理速成教程](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/) [[中文]](https://zhaozhiming.github.io/blog/2017/06/20/a-crash-course-in-memory-management-zh/)
+   - [ArrayBuffers 和 SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)[[中文]](https://zhaozhiming.github.io/blog/2017/06/20/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers-zh/)
+   - [在 Sharedarraybuffers 中使用 Atomics 来避免竞态条件](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/) [[中文]](https://zhaozhiming.github.io/blog/2017/06/21/avoiding-race-conditions-in-sharedarraybuffers-with-atomics-zh/)
+
 
 <br>
 
