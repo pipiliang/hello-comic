@@ -197,6 +197,13 @@
         <summary>IE 浏览器</summary>
         <img src="https://user-gold-cdn.xitu.io/2018/11/17/1671f9209f6d782b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" width="50%"/>
       </li>
+       <li>
+        <details>
+        <summary>程序员是什么</summary>
+        <img src="https://oscimg.oschina.net/oscnet/cb65495601310aeca112a39ffec1d683e07.jpg" width="50%"/>
+        <img src="https://oscimg.oschina.net/oscnet/a7f95396a26e4d5663998e5a3355290f76a.jpg" width="50%"/>
+        <img src="https://oscimg.oschina.net/oscnet/3063d674029b0408104e205dc67bfa7b12c.jpg" width="50%"/>
+      </li>
      </ul>
    </li> 
 </ul> 
