@@ -31,6 +31,7 @@
   - [架构师成长之路](http://hd.qiniu.com/arch/comics)  
   - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
   - [程序员漫画](http://szhshp.org/?pagename=/comics.html)--这是一部程序员漫画, 某一天我闲得很无聊, 很无聊很无聊, 很无聊很无聊很无聊, 于是这部漫画诞生了
+  - :thumbsup: [小绿和小蓝](https://ac.qq.com/Comic/ComicInfo/id/536332)--挺有意思的漫画，可以直接去看122话《回忆》。
   - 节操已下线
     - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
