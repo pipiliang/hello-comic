@@ -45,7 +45,6 @@
      - [IT驴](http://m.ac.qq.com/comic/index/id/532105)--it行业就是累得跟驴一样的屌丝，不过我仍然快乐的努力画画 因为漫画是一种寄托。
      - [IT男的感情生活](http://ac.qq.com/Comic/comicInfo/id/517908)--记录作者与老婆相识相恋结婚生子的温馨小故事
      - [IT趣集](http://m.ac.qq.com/comic/index/id/629274)
-     - [Lae程序员小漫画](http://www.cnblogs.com/aaqxhaa1979/p/5817650.html)
      - [上班萌圈--程序员](http://www.zcool.com.cn/work/ZMTg0ODQ0MDA=.html)
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
 
@@ -217,6 +216,8 @@
 - :musical_note: 程序员之歌
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
   - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
+  - [程序猿disco](https://music.163.com/song?id=1398687705)
+  - 程序员来咯 -- 杨蟒特
 
 ## :books: 技术类
 
