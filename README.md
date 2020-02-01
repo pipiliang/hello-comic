@@ -39,11 +39,13 @@
   - [幽冥世界](http://www.u17.com/comic/155725.html)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
   - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名“侍从”。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
   - [上帝是码农](http://m.sohu.com/a/236684038_100140685)
+  - 西二旗生活指北
+     - [养娃前的互联网人 vs 养娃后的互联网人](https://mp.weixin.qq.com/s/pJN6-PCCtJAbTzMMNThEdA)
+  - 吓脑湿
+     - [今天开会，研究一下如何降低开会频率](https://mp.weixin.qq.com/s/KvHuHRJmgvylhQM5qFe8ew)
   - 其他
      - [数码战争](http://www.u17.com/comic/15000.html)
-     - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)--画风清奇的一版漫画。
-     - [IT驴](http://m.ac.qq.com/comic/index/id/532105)--it行业就是累得跟驴一样的屌丝，不过我仍然快乐的努力画画 因为漫画是一种寄托。
-     - [IT男的感情生活](http://ac.qq.com/Comic/comicInfo/id/517908)--记录作者与老婆相识相恋结婚生子的温馨小故事
+     - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)
      - [IT趣集](http://m.ac.qq.com/comic/index/id/629274)
      - [上班萌圈--程序员](http://www.zcool.com.cn/work/ZMTg0ODQ0MDA=.html)
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
