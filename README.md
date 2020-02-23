@@ -30,8 +30,8 @@
     - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
   - [米兔](https://m.dmzj.com/info/42098.html)--公司里所有的极品竟然集合在一起成为了米兔项目组的成员，米兔项目组究竟能否承担起改变公司命运的责任。
-  - [幽冥世界](https://ac.qq.com/Comic/comicInfo/id/622009)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
-  - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名“侍从”。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
+  - [幽冥世界](https://ac.qq.com/Comic/comicInfo/id/622009)--程序员陆哲的平凡生活，在美女邻居到来后...
+  - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名侍从。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
   - [上帝是码农](http://m.sohu.com/a/236684038_100140685)
   - 西二旗生活指北
      - [养娃前的互联网人 vs 养娃后的互联网人](https://mp.weixin.qq.com/s/pJN6-PCCtJAbTzMMNThEdA)
@@ -74,10 +74,14 @@
   - [后辈酱的宅活动记](https://m.dmzj.com/info/42651.html)--讲述了关于新人程序员后辈酱的公司生活，轻松而又愉快的日常漫画！
   - [奋斗吧！系统工程师](https://m.dmzj.com/info/15929.html)--创立只有几年的小型系统开发公司，位于御茶水。社长六本松经常无视职员负担乱接案子...
   - [百川君与天海桑](https://m.dmzj.com/info/45938.html)--不擅长应付女性的程序员游戏宅与擅长处世的OL之间发生的故事。
-  
+
+- 程序员之歌
+  - [Code Monkey](https://m.bilibili.com/video/av91643.html)
+  - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
+  - [程序猿disco](https://music.163.com/song?id=1398687705)
   
 <ul>  
-  <li>零散收集
+  <li>其他
     <ul>
       <li>
         <details>
@@ -209,11 +213,6 @@
      </ul>
    </li> 
 </ul> 
-
-- 程序员之歌
-  - [Code Monkey](https://m.bilibili.com/video/av91643.html)
-  - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
-  - [程序猿disco](https://music.163.com/song?id=1398687705)
 
 ## :books: 技术类
 
