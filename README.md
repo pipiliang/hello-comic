@@ -11,7 +11,7 @@
 
 ## :see_no_evil: 段子类
 
-- :cn: 国内
+- 国内
   - :thumbsup: [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)--关于女程序员的种种。
   - :thumbsup: [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
   - :thumbsup: [我与程序员的日常](http://www.u17.com/comic/143758.html)--与程（li）序（ke）员（nan）共同工作的生活，为你们揭开程序员不为人知的一面。
@@ -19,39 +19,34 @@
   - :thumbsup: [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
   - :thumbsup: [挨踢精英](http://m.1kkk.com/manhua41446/)--挨踢精英是发生在IT界办公室内，爆笑的讲述了IT界大佬和下属们之间的有趣故事。
   - :thumbsup: [我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
-  - [程序员物语](http://www.u17.com/comic/72515.html)--程序员相关爆笑四格多格漫画
   - [钢铁直男也配谈恋爱](http://www.u17.com/comic/176296.html)--顾生作为一个没朋友的程序员，恋爱经历为0。以为自己作为异性绝缘体就这样乏味的过下去...
-  - [拇指coder](https://manhua.163.com/source/5042896264350340194)--程序媛日常手记
-  - [恋爱编程中](https://manhua.163.com/source/5325050657990058934)--当平凡的怪力女程序员遇上腹黑公司总裁...
-  - [魔爪大冒险之神秘的彩虹编码](http://www.u17.com/comic/138837.html)--一部少儿科幻题材漫画，讲述了主人公海克意外掉落编程世界，在编程世界的阿呆的帮助下寻找归家之路的冒险旅程。
+  - [恋爱编程中](https://ac.qq.com/Comic/comicInfo/id/635467)--当平凡的怪力女程序员遇上腹黑公司总裁...
   - [萌鬼到](http://www.u17.com/chapter/769294.html#image_id=5522656)--1-3话程序员鬼
   - [瑜伽达人](http://www.u17.com/comic/173744.html)--运动无能IT女在好友的邀约下一起习练瑜伽…
-  - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
   - [极客漫画](https://linux.cn/talk/comic/)
-  - [架构师成长之路](http://hd.qiniu.com/arch/comics)  
-  - [爆笑运维部](https://manhua.163.com/source/4882594752580346049)
-  - [程序员漫画](http://szhshp.org/?pagename=/comics.html)--这是一部程序员漫画, 某一天我闲得很无聊, 很无聊很无聊, 很无聊很无聊很无聊, 于是这部漫画诞生了
+  - [爆笑运维部](http://www.u17.com/comic/145814.html)
   - :thumbsup: [小绿和小蓝](https://ac.qq.com/Comic/ComicInfo/id/536332)--挺有意思的漫画，可以直接去看122话《回忆》。
   - 节操已下线
     - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
   - [米兔](https://m.dmzj.com/info/42098.html)--公司里所有的极品竟然集合在一起成为了米兔项目组的成员，米兔项目组究竟能否承担起改变公司命运的责任。
-  - [幽冥世界](http://www.u17.com/comic/155725.html)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
+  - [幽冥世界](https://ac.qq.com/Comic/comicInfo/id/622009)--程序员陆哲的平凡生活，在美女邻居到来后发生变故，突然闯入的不明怪物竟是自己亲手设计而来。参与开发的游戏突然变为现实，虚拟？现实？一些将如何发展？！
   - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名“侍从”。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
   - [上帝是码农](http://m.sohu.com/a/236684038_100140685)
   - 西二旗生活指北
      - [养娃前的互联网人 vs 养娃后的互联网人](https://mp.weixin.qq.com/s/pJN6-PCCtJAbTzMMNThEdA)
   - 吓脑湿
      - [今天开会，研究一下如何降低开会频率](https://mp.weixin.qq.com/s/KvHuHRJmgvylhQM5qFe8ew)
-  - 其他
+  - 非专业
+     - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
      - [数码战争](http://www.u17.com/comic/15000.html)
      - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)
-     - [IT趣集](http://m.ac.qq.com/comic/index/id/629274)
      - [上班萌圈--程序员](http://www.zcool.com.cn/work/ZMTg0ODQ0MDA=.html)
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
+     - [程序员漫画](http://szhshp.org/?pagename=/comics.html)--这是一部程序员漫画, 某一天我闲得很无聊, 于是这部漫画诞生了
 
-- :us: 欧美
-  - [Code Monkey Save World](http://manhuatai.com/chengxuyuanzhengjiushijie/)--程序猿拯救世界，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
+- 欧美
+  - [Code Monkey Save World](https://manhua.dmzj.com/chengxuyuanzhengjiushijie/51551.shtml#@page=1)--程序猿拯救世界，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
   - Daniel Stori
     - [The Depressed Developer](http://turnoff.us/geek/the-depressed-developer/)
     - [Programmers over time](http://turnoff.us/geek/programmers-over-time/)
@@ -82,7 +77,7 @@
   
   
 <ul>  
-  <li>:thought_balloon: 零散收集
+  <li>零散收集
     <ul>
       <li>
         <details>
@@ -215,11 +210,10 @@
    </li> 
 </ul> 
 
-- :musical_note: 程序员之歌
+- 程序员之歌
   - [Code Monkey](https://m.bilibili.com/video/av91643.html)
   - [程序员之歌](http://www.cxyym.com/wp-content/uploads/2016/04/1111.jpg)
   - [程序猿disco](https://music.163.com/song?id=1398687705)
-  - 程序员来咯 -- 杨蟒特
 
 ## :books: 技术类
 
