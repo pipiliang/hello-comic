@@ -35,6 +35,11 @@
   - [上帝是码农](http://m.sohu.com/a/236684038_100140685)
   - 西二旗生活指北
      - [养娃前的互联网人 vs 养娃后的互联网人](https://mp.weixin.qq.com/s/pJN6-PCCtJAbTzMMNThEdA)
+     - [后厂村村民年终总结图鉴](https://mp.weixin.qq.com/s/6GN6VRJ7QvNL19X8kbaFLQ?)
+     - [在百度工作是一种什么样的体验](https://mp.weixin.qq.com/s/N0wmMm2IhTKyzUUKdmuEqQ)
+     - [妈，我在北京做的是正经工作](https://mp.weixin.qq.com/s/spJFv_XkRn73CkH3OlGRJA)
+     - [互联网公司=21世纪的国营大厂](https://mp.weixin.qq.com/s/zpLHM7xZxNy3phNeDKwwVw)
+     - [一个月前的我 vs 现在的我](https://mp.weixin.qq.com/s/pbP5jOWh7-1W5px1Ay3BDg)
   - 吓脑湿
      - [今天开会，研究一下如何降低开会频率](https://mp.weixin.qq.com/s/KvHuHRJmgvylhQM5qFe8ew)
   - 非专业
