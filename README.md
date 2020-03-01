@@ -48,7 +48,6 @@
      - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)
      - [上班萌圈--程序员](http://www.zcool.com.cn/work/ZMTg0ODQ0MDA=.html)
      - [一组苦逼程序员的小漫画](http://www.zcool.com.cn/work/ZMTU4Nzg4MjQ=.html)
-     - [程序员漫画](http://szhshp.org/?pagename=/comics.html)--这是一部程序员漫画, 某一天我闲得很无聊, 于是这部漫画诞生了
 
 - 欧美
   - [Code Monkey Save World](https://manhua.dmzj.com/chengxuyuanzhengjiushijie/51551.shtml#@page=1)--程序猿拯救世界，这是一本脑洞奇大的独立漫画，灵感来自同名歌曲。讲述了一只真正的程序猿查尔斯如何和一群恶棍怪咖联手拯救自己心目中的女神玛蒂尔达的故事。
