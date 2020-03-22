@@ -33,16 +33,29 @@
   - [幽冥世界](https://ac.qq.com/Comic/comicInfo/id/622009)--程序员陆哲的平凡生活，在美女邻居到来后...
   - [异能编码](http://ac.qq.com/Comic/comicInfo/id/622009)--天才程序员白轩被改造成了一名侍从。从此他能够使用计算机代码与被植入体内的共生计算机沟通，为自己开发许多神奇的异能。
   - [上帝是码农](http://m.sohu.com/a/236684038_100140685)
-  - 西二旗生活指北
+  - 西二旗生活指北（公众号）
+     - [上班防火防盗防同事实操守则](https://mp.weixin.qq.com/s/X3yfpmv1RHkjP-8MsuwZrw)
+     - [别的女生 vs 女互联网人](https://mp.weixin.qq.com/s/slfi3ASVHEIYjMDbL53zWg)
+     - [一断网才想起来，它们原来是互联网公司](https://mp.weixin.qq.com/s/hQKfrXS4agAuTR4H-e3DJA)
+     - [轰轰烈烈的云上班，都是互联网人玩儿剩下的](https://mp.weixin.qq.com/s/IG-bi_01SE6K22Fl_Yuw-g)
+     - [一个月前的我 vs 现在的我](https://mp.weixin.qq.com/s/pbP5jOWh7-1W5px1Ay3BDg)
+     - [互联网公司=21世纪的国营大厂](https://mp.weixin.qq.com/s/zpLHM7xZxNy3phNeDKwwVw)
      - [养娃前的互联网人 vs 养娃后的互联网人](https://mp.weixin.qq.com/s/pJN6-PCCtJAbTzMMNThEdA)
      - [后厂村村民年终总结图鉴](https://mp.weixin.qq.com/s/6GN6VRJ7QvNL19X8kbaFLQ?)
      - [在百度工作是一种什么样的体验](https://mp.weixin.qq.com/s/N0wmMm2IhTKyzUUKdmuEqQ)
-     - [妈，我在北京做的是正经工作](https://mp.weixin.qq.com/s/spJFv_XkRn73CkH3OlGRJA)
-     - [互联网公司=21世纪的国营大厂](https://mp.weixin.qq.com/s/zpLHM7xZxNy3phNeDKwwVw)
-     - [一个月前的我 vs 现在的我](https://mp.weixin.qq.com/s/pbP5jOWh7-1W5px1Ay3BDg)
-  - 吓脑湿
+     - [妈，我在北京做的是正经工作](https://mp.weixin.qq.com/s/spJFv_XkRn73CkH3OlGRJA) 
+     - ...
+  - 不会笑青年（微信号：laughyouth） 
+     - [牛X程序员：你敢提需求我就敢实现](https://mp.weixin.qq.com/s/m0zxwIs1JxLGneQbERtO4w)
+     - [面试的我VS真实的我](https://mp.weixin.qq.com/s/7a7kCfB_26CVqP__11MXWQ)
+     - [老子明天不上班](https://mp.weixin.qq.com/s/0iejsTCj7qZ38yFAEv2Okw)
+     - [外包程序员 == 二等公民？](https://mp.weixin.qq.com/s/1VIFwcHI-mcvvlpIvIw6Ug)
+     - ...
+  - 吓脑湿（公众号：whomdcaresu）
      - [今天开会，研究一下如何降低开会频率](https://mp.weixin.qq.com/s/KvHuHRJmgvylhQM5qFe8ew)
-  - 非专业
+     - [互联网人每天要面对多少变态需求？](https://mp.weixin.qq.com/s/gydrR_mMc0Gg3DVlmzr5jQ)
+     - ...
+  - 其他
      - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
      - [数码战争](http://www.u17.com/comic/15000.html)
      - [深入浅出程序员的日常生活](https://www.jianshu.com/c/ea843286796f)
@@ -105,12 +118,6 @@
         <img src="https://upload-images.jianshu.io/upload_images/11329165-fe26be48c17e266b?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp" width="50%"/>
         </details>
       </li>
-      <li>
-        <details>
-        <summary>Windows is shutting down</summary>
-        <img src="http://www.cxyym.com/wp-content/uploads/2016/04/27a037375c172b007d4c24d15e25fe13.png" width="50%"/>
-        </details>
-      </li> 
      <li>
         <details>
         <summary>New Issues</summary>
