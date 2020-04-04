@@ -46,6 +46,7 @@
      - [妈，我在北京做的是正经工作](https://mp.weixin.qq.com/s/spJFv_XkRn73CkH3OlGRJA) 
      - ...
   - 不会笑青年（微信号：laughyouth） 
+     - [程序员大战公务员！到底谁猛？](https://mp.weixin.qq.com/s/SJPLRfkwTiHGbgw2QJfjWQ)
      - [牛X程序员：你敢提需求我就敢实现](https://mp.weixin.qq.com/s/m0zxwIs1JxLGneQbERtO4w)
      - [面试的我VS真实的我](https://mp.weixin.qq.com/s/7a7kCfB_26CVqP__11MXWQ)
      - [老子明天不上班](https://mp.weixin.qq.com/s/0iejsTCj7qZ38yFAEv2Okw)
@@ -55,6 +56,17 @@
      - [今天开会，研究一下如何降低开会频率](https://mp.weixin.qq.com/s/KvHuHRJmgvylhQM5qFe8ew)
      - [互联网人每天要面对多少变态需求？](https://mp.weixin.qq.com/s/gydrR_mMc0Gg3DVlmzr5jQ)
      - ...
+  - 码农翻身（公众号）
+     - [写文档没啥用，别写了！](https://mp.weixin.qq.com/s/SmSFXfbmLPlKM-Z31fkYDg)
+     - [程序员，你得选准跑路的时间！](https://mp.weixin.qq.com/s/NyyLbgjd_3oMV-ej4YMBXg)
+     - [两个程序悲催的进化旅程](https://mp.weixin.qq.com/s/9EUsVWhEr8sMrqZES2ziww)
+     - [朋友送了我一个会编程的机器人，说程序员可以下岗了!!!](https://mp.weixin.qq.com/s/m4lglE0AUCXKPVekKUXQJw)
+     - [隔离做得好，谁都没烦恼！](https://mp.weixin.qq.com/s/201mUftRWEFcxx9W_zsD2w)
+     - [找对“关系”后，办事果然轻松了!](https://mp.weixin.qq.com/s/mpi2tfvLKXAiPK1dxWSTQQ)
+     - [现在的编程和二十年前有什么不同？](https://mp.weixin.qq.com/s/LCouQQ8QLWv6erIWcJztNg)
+     - ...
+  - 有趣青年（公众号）
+     - [你永远骚不过一个互联网人](https://mp.weixin.qq.com/s/97U0CYkZu93mAIz6u4CM-A) 
   - 其他
      - [神秘的程序员们](http://blog.xiqiao.info/category/programmers)
      - [数码战争](http://www.u17.com/comic/15000.html)
